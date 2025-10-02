@@ -11,6 +11,7 @@ Welcome to Veeam B&R CLI's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   README
    installation
    usage
 

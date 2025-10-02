@@ -7,6 +7,7 @@ build-backend = "flit_core.buildapi"
 name = "veeam-cli"
 version = "0.1.0"
 description = "A CLI for interacting with the Veeam Backup & Replication API."
+readme = "README.md"
 authors = [
     {name = "Your Name", email = "your.email@example.com"},
 ]
