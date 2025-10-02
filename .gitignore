@@ -1,0 +1,5 @@
+# Documentation build
+docs/build/
+
+# Archives
+*.tar.xz
